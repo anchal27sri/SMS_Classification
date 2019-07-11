@@ -1,1 +1,9 @@
-This is for sms classification
+The project is devided into these steps:
+  1. Importing all the required libraries
+  2. Getting the dataset filtered and cleaned
+  3. Getting the vocabulary set from the data based on tfidf score
+  4. Converting each sentence into list of indices
+  5. Making the sequential model
+  6. Training the model
+  7. Testing the accuracy, f1score, precesion and recall
+  8. saving the model
